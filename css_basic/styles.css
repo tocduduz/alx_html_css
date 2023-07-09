@@ -7,4 +7,5 @@ main{
     flex-direction: row;
     height: auto;
     width: auto;
+    flex: 2;
 }
