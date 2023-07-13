@@ -374,7 +374,7 @@
 
   /* Section Latest news ============================= */
 
-  .section-latest-news .row{
+  .section-latest-news .container{
     flex-direction:row-reverse
   }
   
